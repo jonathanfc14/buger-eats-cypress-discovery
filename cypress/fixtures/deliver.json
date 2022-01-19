@@ -1,0 +1,49 @@
+{
+    "signup": {
+        "name": "Jonathan Carvalho",
+        "cpf": "00000014141",
+        "email": "jonathan@hotmail.com",
+        "whatsapp": "83999999999",
+        "address": {
+            "postalcode": "58075630",
+            "street": "Rua Armando Afonso Boudoux Júnior",
+            "number": "376",
+            "details": "401B",
+            "district": "Ernesto Geisel",
+            "city_state": "João Pessoa/PB"
+        },
+        "delivery_method": "Moto", 
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "John Felix",
+        "cpf": "x00000141AA",
+        "email": "john@hotmail.com",
+        "whatsapp": "83999999999",
+        "address": {
+            "postalcode": "58075630",
+            "street": "Rua Armando Afonso Boudoux Júnior",
+            "number": "376",
+            "details": "401B",
+            "district": "Ernesto Geisel",
+            "city_state": "João Pessoa/PB"
+        },
+        "delivery_method": "Moto", 
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Jonathan Carvalho",
+        "cpf": "00000014141",
+        "email": "jonathan.com.br",
+        "whatsapp": "83999999999",
+        "address": {
+            "postalcode": "58075630",
+            "street": "Rua Armando Afonso Boudoux Júnior",
+            "number": "376",
+            "details": "401B",
+            "district": "Ernesto Geisel",
+            "city_state": "João Pessoa/PB"
+        },
+        "delivery_method": "Moto", 
+        "cnh": "cnh-digital.jpg"
+}
